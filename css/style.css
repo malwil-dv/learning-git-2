@@ -11,3 +11,18 @@
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
     color: #3c2f2f;
   }
+
+  h1, h2 {
+    text-align: center;
+  }
+
+  .biography {
+    text-align: center;         
+    font-size: 1.5em;            
+    padding: 20px 40px;              
+    background-color: #f0f8ff;  
+    color: #333;                
+    max-width: 706px;           
+    margin: 0 auto;          
+    font-family: Arial, sans-serif; 
+  }  
